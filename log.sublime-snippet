@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+console.log("${1:this}", ${2});
+]]></content>
+	<tabTrigger>log</tabTrigger>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+public function test${1}()
+{
+	${2:# code...}
+}
+]]></content>
+	<tabTrigger>test</tabTrigger>
+</snippet>

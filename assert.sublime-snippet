@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+\$this->assert${1}(${2});
+]]></content>
+	<tabTrigger>ass</tabTrigger>
+</snippet>

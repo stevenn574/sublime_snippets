@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<strong>${1:$SELECTION}</strong>]]></content>
+    <description>Strong Tag</description>
+</snippet>

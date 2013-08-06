@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+${1:Model}::connection()->last_query;
+]]></content>
+	<tabTrigger>lq</tabTrigger>
+</snippet>

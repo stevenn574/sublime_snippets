@@ -1,0 +1,4 @@
+<snippet>	
+	<content><![CDATA[debug(\$${1});${2:die;}]]></content>
+	<tabTrigger>dd</tabTrigger>
+</snippet>

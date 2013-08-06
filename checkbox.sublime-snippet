@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+	<input type="checkbox" name="${1}" value="${2}" ${3:checked="checked"}>
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>checkbox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
